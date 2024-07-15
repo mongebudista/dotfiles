@@ -11,11 +11,11 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'gh0stzk',
+	name: 'jo',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: true,
-	timeZone: 'America/Mexico_City',
+	timeZone: 'America/Sao_Paulo',
 
 	// Greetings
 	greetingMorning: 'Good morning!',
@@ -140,8 +140,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'z0mbi3 dots',
-					link: 'https://github.com/gh0stzk/dotfiles',
+					name: 'mongebudista dots',
+					link: 'https://github.com/mongebudista/dotfiles',
 				},
 				{
 					name: 'Arch Linux',
@@ -200,8 +200,8 @@ const CONFIG = {
 					link: 'https://www.facebook.com',
 				},
 				{
-					name: 'Twitter',
-					link: 'https://twitter.com',
+					name: 'X',
+					link: 'https://x.com',
 				},
 			],
 		},
